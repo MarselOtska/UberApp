@@ -3,7 +3,7 @@ import { GoogleAuthProvider, getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyDqEZ8XQh8W1UNMxYmV8ckUfHYvJp2ge1k",
+ your apikey //apiKey: "",
 
   authDomain: "uber-clone-ddb16.firebaseapp.com",
 
